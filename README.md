@@ -1,3 +1,4 @@
+![AI GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE2NDN5bHFzaXJ0cDJkMXlyaGpwdWU0Nnkyc2NjMzhsd2t0ZTI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iH2IldVkqeLuJ7eJ0L/giphy.gif)
 <h1 align="center">Hi 👋, I'm Neha Bari</h1>
 <h3 align="center">Where AI Meets Creativity and Everything in Between</h3>
 
